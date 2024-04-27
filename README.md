@@ -1,4 +1,4 @@
-# CodeCraft2021
+# Huawei CodeCraft 2021
 
 队名：女少虫圭禾中子
 
