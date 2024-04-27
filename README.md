@@ -1,4 +1,4 @@
-# CodeCraft2021代码开源
+# CodeCraft2021
 
 队名：女少虫圭禾中子
 
