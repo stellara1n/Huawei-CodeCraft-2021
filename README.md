@@ -1,5 +1,6 @@
 # Huawei-CodeCraft-2021
-队名：女少虫圭禾中子
+#### 队名
+女少虫圭禾中子
 ![result](https://github.com/user-attachments/assets/2c74144a-8b22-45aa-9016-b26bd0b38a37)
 
 
